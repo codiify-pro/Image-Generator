@@ -15,7 +15,7 @@ The **Image Generator Tool** is a simple and user-friendly web application that 
 - **CSS3** - For styling and responsiveness.  
 - **JavaScript** - For handling image generation and download functionality.  
 
-## API Test
+## 🙂 API Test
 - [API Documentation For You](https://www.codiify.us.kg/p/image-generator-api.html)).  
 
 ## 🔧 Getting Started  
