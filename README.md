@@ -16,8 +16,8 @@ The **Image Generator Tool** is a simple and user-friendly web application that 
 - **JavaScript** - For handling image generation and download functionality.  
 
 ## API Test
-- [API Documentation For You]([https://github.com/codiify-pro/Image-Generator](https://www.codiify.us.kg/p/image-generator-api.html)).  
-- 
+- [API Documentation For You](https://www.codiify.us.kg/p/image-generator-api.html)).  
+
 ## 🔧 Getting Started  
 Follow these steps to use the tool:  
 1. Clone the repository or download the files.  
