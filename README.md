@@ -1,6 +1,6 @@
 # Image Generator Tool  
 
-![Image Generator Tool](./assets/preview.png)  
+![Image Generator Tool](https://i.ibb.co/3yR7DXFk/IMG-20250209-005722-509.jpg)  
 
 The **Image Generator Tool** is a simple and user-friendly web application that allows users to generate images based on their input. This tool provides an easy way to create and download images instantly.  
 
